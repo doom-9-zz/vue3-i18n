@@ -4,6 +4,14 @@
   "main": "dist/index.js",
   "module": "dist/index.js",
   "license": "MIT",
+  "keywords": [
+    "vue",
+    "vue3",
+    "vue-i18n",
+    "i18n",
+    "vue-i18n-plugin",
+    "typescript"
+  ],
   "scripts": {
     "build": "rollup -c"
   },
