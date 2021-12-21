@@ -8,7 +8,6 @@
 import App from "./App.vue";
 import { createApp } from "vue";
 import i18n from "vue3-i18n-plugin";
-import i18nConfig from "./utils/i18n/const";
 
 createApp(App)
   .use(i18n, {
